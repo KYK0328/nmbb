@@ -5,7 +5,7 @@
 **팀 구성**: 4인
 
 **담당 부분** `기여도: 50%`
-프로젝트 총괄, 데이터 전처리, RFM, RETENTION 분석
+- 프로젝트 총괄, 데이터 전처리, RFM, RETENTION 분석
 
 **활동 요약**
 1. 데이터 전처리: 수집한 데이터 내 고객 정보가 불규칙하게 비식별화 처리된 것을 확인하고 데이터 전처리 진행. 이를 통해, 오분류를 10% 방지함.
@@ -17,7 +17,7 @@
 - 수집기간: 2023.02.01 ~ 2024.01.31
 
 **언어/라이브러리** 
-Python, pandas, numpy skit-learn
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
 **배운점**
 - 데이터 전처리 과정에 따라 RFM, RETENTION 분석 결과가 달라지는 것을 확인함. 분석의 실효성을 위해 충분한 데이터 탐색과 전처리 과정의 중요성을 느낌.
