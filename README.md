@@ -1,4 +1,4 @@
-# 🍡Project NMBB: 네이버스토어 판매데이터 분석을 통한 고객 구매 소비 패턴 이해와 마케팅 제안
+# 🍡 NMBB: 네이버스토어 판매데이터 분석 기반 통한 고객 소비 패턴 이해와 마케팅 제안
 
 **프로젝트 기간:** 2024.01.22 ~ 2024.02.19
 
@@ -16,7 +16,8 @@
 - 네이버스토어 판매 데이터
 - 수집기간: 2023.02.01 ~ 2024.01.31
 
-**언어/라이브러리** 
+**언어/라이브러리**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
 **배운점**
