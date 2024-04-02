@@ -24,7 +24,8 @@
 - 데이터 전처리 과정에 따라 RFM, RETENTION 분석 결과가 달라지는 것을 확인함. 분석의 실효성을 위해 충분한 데이터 탐색과 전처리 과정의 중요성을 느낌.
 - 데이터 분석 결과를 바탕으로 고객과 비즈니스를 이해하고 이를 반영한 전략적인 마케팅을 제안하는 경험을 함. 이 과정에서 비즈니스 문제를 해소하고 가치를 창출하는 방법을 배움.
 
-## 최종 제안서
+
+## 마케팅 제안서
 ![1](https://github.com/KYK0328/nmbb/assets/128811238/a251c6ad-4e6e-4aa6-a6dd-de9b5c49c2e7)
 ![2](https://github.com/KYK0328/nmbb/assets/128811238/2edc60f2-d0f6-4389-b8c8-f7c0b8863119)
 ![3](https://github.com/KYK0328/nmbb/assets/128811238/0180115b-8f92-430a-b2ff-dccdba3a8cfe)
